@@ -2,4 +2,8 @@ Hello world
 Stuff to be removed later
 hello helloooo
 asdlkfjsdalfkj
+<<<<<<< HEAD
 for master
+=======
+a;sdfjas;dfjas;lkfj
+>>>>>>> Reworded commit
