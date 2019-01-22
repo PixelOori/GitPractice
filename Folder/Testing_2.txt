@@ -3,7 +3,11 @@ Stuff to be removed later
 hello helloooo
 asdlkfjsdalfkj
 <<<<<<< HEAD
+<<<<<<< HEAD
 for master
 =======
 a;sdfjas;dfjas;lkfj
 >>>>>>> Reworded commit
+=======
+a;sdfjas;dfjas;lkfj
+>>>>>>> 76a289762c57a20ea33c9effc441fbdb62136b72

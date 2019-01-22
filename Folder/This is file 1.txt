@@ -4,6 +4,9 @@ something
 a;lsdkfjas;ldkfjsad;klj
 asldkfjsaldk;fj
 <<<<<<< HEAD
+<<<<<<< HEAD
 for master
 =======
 >>>>>>> Reworded commit
+=======
+>>>>>>> 76a289762c57a20ea33c9effc441fbdb62136b72
